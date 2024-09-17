@@ -2,3 +2,4 @@ CS106A is one of the most popular courses at **Stanford University** by an amazi
 
 In the [Code in Place](https://codeinplace.stanford.edu/) course, I will be learning the fundamentals of Python programming. The course starts with an introduction to control flow using Karel, where I'll work on projects like "Welcome Karel" and "Puzzle Karel" to build foundational programming skills. I'll then move on to creating console programs with projects such as "Sandcastles" and "Khansole Academy," which will help me understand variables and program structure. As the course progresses, I'll explore graphics through assignments like "Random Art" and "World's Hardest Game," focusing on lists and dictionaries. The course will conclude with a final project that encourages creativity and continued learning in Python programming.
 
+"If you do, you will never cease to grow.” - Anthony J. D’Angelo
